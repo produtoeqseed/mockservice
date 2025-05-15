@@ -1,0 +1,1028 @@
+[
+  {
+    "id": 649951,
+    "nome": "Rafaela Albuquerque",
+    "numero_de_rodadas": 3,
+    "valor_total_investido": 184981.12,
+    "iss_geral": 3.21,
+    "empresas_investidas": [
+      {
+        "id": 84807,
+        "nome_empresa": "da Rocha",
+        "cnpj": "02.168.547/0001-26",
+        "categoria": "EduTech",
+        "iss": 32,
+        "estagio": "Early-stage",
+        "status_rodada": "Aberta para investir",
+        "linkedin": "http://albuquerque.com/",
+        "instagram": "https://cavalcante.org/",
+        "site": "https://www.moraes.com/",
+        "logo": "https://picsum.photos/142/85",
+        "investimento": {
+          "valor": 92063.06,
+          "percentual_rodada": 4.578,
+          "status_investimento": "Emitido",
+          "status_liquidacao": "Concluída",
+          "data_emissao": "2025-04-27T15:16:00",
+          "data_assinatura": "2025-04-27T15:21:00",
+          "link_docusign": "https://www.casa.net/"
+        },
+        "rodada": {
+          "valor_captado": 1486477,
+          "inicio_liquidacao": "2025-05-07T15:21:00",
+          "fim_liquidacao": "2025-06-06T15:21:00"
+        },
+        "documentos": [
+          {
+            "nome_arquivo": "Relatório de Oferta",
+            "tipo": "Relatórios",
+            "trimestre": "1T",
+            "ano": 2025,
+            "link": "https://www.pimenta.net/"
+          }
+        ],
+        "indicadores": [
+          {
+            "nome": "Receita",
+            "pilar": "Financeiro",
+            "valor": 860879.91,
+            "trimestre": "1T",
+            "ano": 2025
+          }
+        ],
+        "cartas_ceo": [
+          {
+            "trimestre": "1T",
+            "ano": 2025,
+            "texto": "Optio ducimus tempore esse. Delectus dolores assumenda veritatis quam laborum. Dolor doloribus hic architecto quasi quam sed tempore. Illo vitae assumenda."
+          }
+        ]
+      },
+      {
+        "id": 88442,
+        "nome_empresa": "Brito",
+        "cnpj": "46.890.532/0001-42",
+        "categoria": "EduTech",
+        "iss": 15,
+        "estagio": "Ideação",
+        "status_rodada": "Exit",
+        "linkedin": "http://www.nunes.com/",
+        "instagram": "http://www.aragao.net/",
+        "site": "https://www.azevedo.org/",
+        "logo": "https://placekitten.com/9/142",
+        "investimento": {
+          "valor": 89015.1,
+          "percentual_rodada": 1.1389,
+          "status_investimento": "Assinado",
+          "status_liquidacao": "Concluída",
+          "data_emissao": "2025-04-14T04:18:30",
+          "data_assinatura": "2025-04-14T04:23:30",
+          "link_docusign": "http://www.oliveira.br/"
+        },
+        "rodada": {
+          "valor_captado": 1859264,
+          "inicio_liquidacao": "2025-04-24T04:23:30",
+          "fim_liquidacao": "2025-05-24T04:23:30"
+        },
+        "documentos": [
+          {
+            "nome_arquivo": "Relatório de Oferta",
+            "tipo": "Relatórios",
+            "trimestre": "1T",
+            "ano": 2025,
+            "link": "http://www.albuquerque.com/"
+          }
+        ],
+        "indicadores": [
+          {
+            "nome": "Receita",
+            "pilar": "Financeiro",
+            "valor": 461245.73,
+            "trimestre": "1T",
+            "ano": 2025
+          }
+        ],
+        "cartas_ceo": [
+          {
+            "trimestre": "1T",
+            "ano": 2025,
+            "texto": "Quisquam dignissimos fugit unde accusantium at iste nemo. Ea rem odit rem consequatur. Id rem fuga nesciunt iste rerum. Occaecati quod eius necessitatibus sint. Esse commodi nesciunt consectetur provident voluptatem facilis."
+          }
+        ]
+      },
+      {
+        "id": 88818,
+        "nome_empresa": "Abreu Gonçalves - ME",
+        "cnpj": "26.034.719/0001-37",
+        "categoria": "Agtech",
+        "iss": 11,
+        "estagio": "Estágio de crescimento",
+        "status_rodada": "Aberta para investir",
+        "linkedin": "http://abreu.br/",
+        "instagram": "http://www.pires.com/",
+        "site": "http://www.da.org/",
+        "logo": "https://picsum.photos/292/443",
+        "investimento": {
+          "valor": 129262.58,
+          "percentual_rodada": 2.4874,
+          "status_investimento": "Assinado",
+          "status_liquidacao": "Em andamento",
+          "data_emissao": "2025-03-17T10:58:50",
+          "data_assinatura": "2025-03-17T11:03:50",
+          "link_docusign": "https://montenegro.net/"
+        },
+        "rodada": {
+          "valor_captado": 974881,
+          "inicio_liquidacao": "2025-03-27T11:03:50",
+          "fim_liquidacao": "2025-04-26T11:03:50"
+        },
+        "documentos": [
+          {
+            "nome_arquivo": "Relatório de Oferta",
+            "tipo": "Relatórios",
+            "trimestre": "1T",
+            "ano": 2025,
+            "link": "http://correia.com/"
+          }
+        ],
+        "indicadores": [
+          {
+            "nome": "Receita",
+            "pilar": "Financeiro",
+            "valor": 169421.08,
+            "trimestre": "1T",
+            "ano": 2025
+          }
+        ],
+        "cartas_ceo": [
+          {
+            "trimestre": "1T",
+            "ano": 2025,
+            "texto": "Harum esse dolor accusantium. Laborum ipsum vero quam enim blanditiis. Eveniet ullam vitae officia eum ducimus quia. Eaque tenetur illum sapiente modi dolore commodi. Beatae ipsa voluptate architecto quia libero qui. Occaecati assumenda ullam officia."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 874802,
+    "nome": "Larissa Brito",
+    "numero_de_rodadas": 1,
+    "valor_total_investido": 149167.11,
+    "iss_geral": 1.25,
+    "empresas_investidas": [
+      {
+        "id": 84011,
+        "nome_empresa": "Rocha Souza e Filhos",
+        "cnpj": "35.167.940/0001-54",
+        "categoria": "SaaS",
+        "iss": 53,
+        "estagio": "Early-stage",
+        "status_rodada": "Exit",
+        "linkedin": "http://www.pastor.br/",
+        "instagram": "https://pereira.org/",
+        "site": "http://souza.br/",
+        "logo": "https://placekitten.com/173/479",
+        "investimento": {
+          "valor": 105095.36,
+          "percentual_rodada": 2.3119,
+          "status_investimento": "Emitido",
+          "status_liquidacao": "Concluída",
+          "data_emissao": "2025-01-05T18:00:27",
+          "data_assinatura": "2025-01-05T18:05:27",
+          "link_docusign": "http://www.camargo.net/"
+        },
+        "rodada": {
+          "valor_captado": 1921405,
+          "inicio_liquidacao": "2025-01-15T18:05:27",
+          "fim_liquidacao": "2025-02-14T18:05:27"
+        },
+        "documentos": [
+          {
+            "nome_arquivo": "Relatório de Oferta",
+            "tipo": "Relatórios",
+            "trimestre": "1T",
+            "ano": 2025,
+            "link": "https://marques.br/"
+          }
+        ],
+        "indicadores": [
+          {
+            "nome": "Receita",
+            "pilar": "Financeiro",
+            "valor": 446521.65,
+            "trimestre": "1T",
+            "ano": 2025
+          }
+        ],
+        "cartas_ceo": [
+          {
+            "trimestre": "1T",
+            "ano": 2025,
+            "texto": "Autem ut inventore ut suscipit amet deserunt. Dolores fugit odio labore expedita. Eaque maiores ab eveniet in nostrum. Nisi dolore inventore incidunt pariatur exercitationem sunt. Amet illo quaerat tempore consectetur."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 640540,
+    "nome": "Clarice da Luz",
+    "numero_de_rodadas": 1,
+    "valor_total_investido": 34707.77,
+    "iss_geral": 5.07,
+    "empresas_investidas": [
+      {
+        "id": 83131,
+        "nome_empresa": "Caldeira da Conceição S/A",
+        "cnpj": "85.706.139/0001-08",
+        "categoria": "EduTech",
+        "iss": 76,
+        "estagio": "Estágio de crescimento",
+        "status_rodada": "Aberta para investir",
+        "linkedin": "https://www.pimenta.net/",
+        "instagram": "http://www.da.br/",
+        "site": "https://fernandes.net/",
+        "logo": "https://picsum.photos/850/314",
+        "investimento": {
+          "valor": 98672.37,
+          "percentual_rodada": 2.876,
+          "status_investimento": "Emitido",
+          "status_liquidacao": "Concluída",
+          "data_emissao": "2025-01-13T18:37:46",
+          "data_assinatura": "2025-01-13T18:42:46",
+          "link_docusign": "https://nunes.br/"
+        },
+        "rodada": {
+          "valor_captado": 1104891,
+          "inicio_liquidacao": "2025-01-23T18:42:46",
+          "fim_liquidacao": "2025-02-22T18:42:46"
+        },
+        "documentos": [
+          {
+            "nome_arquivo": "Relatório de Oferta",
+            "tipo": "Relatórios",
+            "trimestre": "1T",
+            "ano": 2025,
+            "link": "http://www.brito.br/"
+          }
+        ],
+        "indicadores": [
+          {
+            "nome": "Receita",
+            "pilar": "Financeiro",
+            "valor": 604005.65,
+            "trimestre": "1T",
+            "ano": 2025
+          }
+        ],
+        "cartas_ceo": [
+          {
+            "trimestre": "1T",
+            "ano": 2025,
+            "texto": "Eum vitae repellendus excepturi deserunt mollitia. Quod deleniti eius tenetur. Culpa tenetur occaecati eius ipsa molestiae nemo. Asperiores a voluptatibus sapiente et ducimus excepturi alias. Eum adipisci aliquam cupiditate maiores distinctio."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 864572,
+    "nome": "Mariane Cavalcanti",
+    "numero_de_rodadas": 1,
+    "valor_total_investido": 117874.45,
+    "iss_geral": 2.97,
+    "empresas_investidas": [
+      {
+        "id": 89856,
+        "nome_empresa": "Freitas",
+        "cnpj": "39.851.072/0001-88",
+        "categoria": "SaaS",
+        "iss": 35,
+        "estagio": "Early-stage",
+        "status_rodada": "Writeoff",
+        "linkedin": "https://nunes.br/",
+        "instagram": "http://carvalho.br/",
+        "site": "https://www.lopes.org/",
+        "logo": "https://placekitten.com/792/35",
+        "investimento": {
+          "valor": 22079.83,
+          "percentual_rodada": 0.8654,
+          "status_investimento": "Assinado",
+          "status_liquidacao": "Concluída",
+          "data_emissao": "2025-01-15T07:12:45",
+          "data_assinatura": "2025-01-15T07:17:45",
+          "link_docusign": "http://costela.br/"
+        },
+        "rodada": {
+          "valor_captado": 1079010,
+          "inicio_liquidacao": "2025-01-25T07:17:45",
+          "fim_liquidacao": "2025-02-24T07:17:45"
+        },
+        "documentos": [
+          {
+            "nome_arquivo": "Relatório de Oferta",
+            "tipo": "Relatórios",
+            "trimestre": "1T",
+            "ano": 2025,
+            "link": "https://gomes.br/"
+          }
+        ],
+        "indicadores": [
+          {
+            "nome": "Receita",
+            "pilar": "Financeiro",
+            "valor": 407759.79,
+            "trimestre": "1T",
+            "ano": 2025
+          }
+        ],
+        "cartas_ceo": [
+          {
+            "trimestre": "1T",
+            "ano": 2025,
+            "texto": "Maxime fugiat eum alias magnam eveniet vel deserunt. Excepturi ipsum repellat laborum molestias libero nulla. Recusandae eius ducimus ullam culpa quod. Quam similique dolor sunt temporibus doloribus."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 598100,
+    "nome": "Igor Câmara",
+    "numero_de_rodadas": 2,
+    "valor_total_investido": 94030.06,
+    "iss_geral": 6.3,
+    "empresas_investidas": [
+      {
+        "id": 86445,
+        "nome_empresa": "Farias Rodrigues S/A",
+        "cnpj": "08.174.925/0001-60",
+        "categoria": "Agtech",
+        "iss": 81,
+        "estagio": "Early-stage",
+        "status_rodada": "Exit",
+        "linkedin": "https://brito.com/",
+        "instagram": "http://www.novaes.com/",
+        "site": "http://peixoto.br/",
+        "logo": "https://picsum.photos/723/168",
+        "investimento": {
+          "valor": 11645.52,
+          "percentual_rodada": 4.7408,
+          "status_investimento": "Emitido",
+          "status_liquidacao": "Em andamento",
+          "data_emissao": "2025-01-17T17:47:20",
+          "data_assinatura": "2025-01-17T17:52:20",
+          "link_docusign": "https://www.viana.br/"
+        },
+        "rodada": {
+          "valor_captado": 1038282,
+          "inicio_liquidacao": "2025-01-27T17:52:20",
+          "fim_liquidacao": "2025-02-26T17:52:20"
+        },
+        "documentos": [
+          {
+            "nome_arquivo": "Relatório de Oferta",
+            "tipo": "Relatórios",
+            "trimestre": "1T",
+            "ano": 2025,
+            "link": "https://da.org/"
+          }
+        ],
+        "indicadores": [
+          {
+            "nome": "Receita",
+            "pilar": "Financeiro",
+            "valor": 180173.98,
+            "trimestre": "1T",
+            "ano": 2025
+          }
+        ],
+        "cartas_ceo": [
+          {
+            "trimestre": "1T",
+            "ano": 2025,
+            "texto": "Laborum voluptates magni porro eligendi fuga facilis vitae. Nesciunt ab odio vel assumenda voluptate. Quaerat eligendi sequi nisi dolores."
+          }
+        ]
+      },
+      {
+        "id": 87622,
+        "nome_empresa": "Vargas Câmara S.A.",
+        "cnpj": "09.754.618/0001-11",
+        "categoria": "Agtech",
+        "iss": 78,
+        "estagio": "Ideação",
+        "status_rodada": "Writeoff",
+        "linkedin": "https://barros.br/",
+        "instagram": "http://pacheco.com/",
+        "site": "https://www.da.br/",
+        "logo": "https://placekitten.com/823/1018",
+        "investimento": {
+          "valor": 112496.86,
+          "percentual_rodada": 1.6037,
+          "status_investimento": "Assinado",
+          "status_liquidacao": "Em andamento",
+          "data_emissao": "2025-04-23T13:41:34",
+          "data_assinatura": "2025-04-23T13:46:34",
+          "link_docusign": "http://www.porto.com/"
+        },
+        "rodada": {
+          "valor_captado": 1621530,
+          "inicio_liquidacao": "2025-05-03T13:46:34",
+          "fim_liquidacao": "2025-06-02T13:46:34"
+        },
+        "documentos": [
+          {
+            "nome_arquivo": "Relatório de Oferta",
+            "tipo": "Relatórios",
+            "trimestre": "1T",
+            "ano": 2025,
+            "link": "http://peixoto.org/"
+          }
+        ],
+        "indicadores": [
+          {
+            "nome": "Receita",
+            "pilar": "Financeiro",
+            "valor": 949832.65,
+            "trimestre": "1T",
+            "ano": 2025
+          }
+        ],
+        "cartas_ceo": [
+          {
+            "trimestre": "1T",
+            "ano": 2025,
+            "texto": "Sit fugit tempore unde. Accusamus necessitatibus in ad. Distinctio nam necessitatibus sequi voluptate. Saepe neque et amet. Voluptatum sit quae sed magnam."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 161209,
+    "nome": "Sr. Gael Fernandes",
+    "numero_de_rodadas": 3,
+    "valor_total_investido": 44024.37,
+    "iss_geral": 3.0,
+    "empresas_investidas": [
+      {
+        "id": 87197,
+        "nome_empresa": "Macedo",
+        "cnpj": "90.352.417/0001-06",
+        "categoria": "Agtech",
+        "iss": 47,
+        "estagio": "Estágio de crescimento",
+        "status_rodada": "Exit",
+        "linkedin": "https://www.araujo.br/",
+        "instagram": "https://ribeiro.com/",
+        "site": "http://leao.com/",
+        "logo": "https://dummyimage.com/50x940",
+        "investimento": {
+          "valor": 37009.66,
+          "percentual_rodada": 4.9236,
+          "status_investimento": "Assinado",
+          "status_liquidacao": "Concluída",
+          "data_emissao": "2025-04-29T21:13:02",
+          "data_assinatura": "2025-04-29T21:18:02",
+          "link_docusign": "https://www.leao.com/"
+        },
+        "rodada": {
+          "valor_captado": 1582062,
+          "inicio_liquidacao": "2025-05-09T21:18:02",
+          "fim_liquidacao": "2025-06-08T21:18:02"
+        },
+        "documentos": [
+          {
+            "nome_arquivo": "Relatório de Oferta",
+            "tipo": "Relatórios",
+            "trimestre": "1T",
+            "ano": 2025,
+            "link": "http://cunha.com/"
+          }
+        ],
+        "indicadores": [
+          {
+            "nome": "Receita",
+            "pilar": "Financeiro",
+            "valor": 355099.53,
+            "trimestre": "1T",
+            "ano": 2025
+          }
+        ],
+        "cartas_ceo": [
+          {
+            "trimestre": "1T",
+            "ano": 2025,
+            "texto": "Doloribus reiciendis et. Ut assumenda maiores natus. Quam ullam tempora molestias minus unde excepturi inventore."
+          }
+        ]
+      },
+      {
+        "id": 89707,
+        "nome_empresa": "Pires",
+        "cnpj": "42.137.059/0001-76",
+        "categoria": "EduTech",
+        "iss": 35,
+        "estagio": "Ideação",
+        "status_rodada": "Aberta para investir",
+        "linkedin": "https://www.machado.br/",
+        "instagram": "https://dias.com/",
+        "site": "https://www.souza.br/",
+        "logo": "https://picsum.photos/347/418",
+        "investimento": {
+          "valor": 10945.04,
+          "percentual_rodada": 0.5089,
+          "status_investimento": "Cancelado",
+          "status_liquidacao": "Concluída",
+          "data_emissao": "2025-03-09T01:41:17",
+          "data_assinatura": "2025-03-09T01:46:17",
+          "link_docusign": "http://viana.br/"
+        },
+        "rodada": {
+          "valor_captado": 1100869,
+          "inicio_liquidacao": "2025-03-19T01:46:17",
+          "fim_liquidacao": "2025-04-18T01:46:17"
+        },
+        "documentos": [
+          {
+            "nome_arquivo": "Relatório de Oferta",
+            "tipo": "Relatórios",
+            "trimestre": "1T",
+            "ano": 2025,
+            "link": "http://www.rios.com/"
+          }
+        ],
+        "indicadores": [
+          {
+            "nome": "Receita",
+            "pilar": "Financeiro",
+            "valor": 849172.31,
+            "trimestre": "1T",
+            "ano": 2025
+          }
+        ],
+        "cartas_ceo": [
+          {
+            "trimestre": "1T",
+            "ano": 2025,
+            "texto": "Officiis iste doloremque facilis ipsum dignissimos. Natus iste molestias ipsa. Atque cumque nisi consequatur. Nemo suscipit doloribus eveniet. Deleniti ipsam aliquam nisi quia. Quod dolore voluptas earum eius ut."
+          }
+        ]
+      },
+      {
+        "id": 82568,
+        "nome_empresa": "Sampaio",
+        "cnpj": "64.790.512/0001-81",
+        "categoria": "EduTech",
+        "iss": 91,
+        "estagio": "Estágio de crescimento",
+        "status_rodada": "Aberta para investir",
+        "linkedin": "https://www.da.org/",
+        "instagram": "http://www.garcia.net/",
+        "site": "http://da.br/",
+        "logo": "https://dummyimage.com/779x228",
+        "investimento": {
+          "valor": 29883.95,
+          "percentual_rodada": 1.6404,
+          "status_investimento": "Assinado",
+          "status_liquidacao": "Concluída",
+          "data_emissao": "2025-04-18T10:06:53",
+          "data_assinatura": "2025-04-18T10:11:53",
+          "link_docusign": "http://www.marques.com/"
+        },
+        "rodada": {
+          "valor_captado": 1198209,
+          "inicio_liquidacao": "2025-04-28T10:11:53",
+          "fim_liquidacao": "2025-05-28T10:11:53"
+        },
+        "documentos": [
+          {
+            "nome_arquivo": "Relatório de Oferta",
+            "tipo": "Relatórios",
+            "trimestre": "1T",
+            "ano": 2025,
+            "link": "https://www.pinto.org/"
+          }
+        ],
+        "indicadores": [
+          {
+            "nome": "Receita",
+            "pilar": "Financeiro",
+            "valor": 533842.65,
+            "trimestre": "1T",
+            "ano": 2025
+          }
+        ],
+        "cartas_ceo": [
+          {
+            "trimestre": "1T",
+            "ano": 2025,
+            "texto": "Voluptatibus necessitatibus ipsum aperiam repudiandae perspiciatis facilis nesciunt. Debitis odio harum eligendi delectus. Consequatur enim mollitia dignissimos magni reprehenderit perspiciatis. Similique voluptatum facilis vitae quos. Blanditiis at praesentium libero neque. Laboriosam fugiat repellat fuga tempora placeat."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 452630,
+    "nome": "Bianca Campos",
+    "numero_de_rodadas": 1,
+    "valor_total_investido": 67677.57,
+    "iss_geral": 0.98,
+    "empresas_investidas": [
+      {
+        "id": 87126,
+        "nome_empresa": "Azevedo",
+        "cnpj": "97.052.648/0001-43",
+        "categoria": "Agtech",
+        "iss": 34,
+        "estagio": "Estágio de crescimento",
+        "status_rodada": "Terminada",
+        "linkedin": "http://porto.br/",
+        "instagram": "http://rocha.com/",
+        "site": "https://www.vasconcelos.br/",
+        "logo": "https://placekitten.com/541/690",
+        "investimento": {
+          "valor": 89889.57,
+          "percentual_rodada": 0.5615,
+          "status_investimento": "Cancelado",
+          "status_liquidacao": "Em andamento",
+          "data_emissao": "2025-04-16T05:51:16",
+          "data_assinatura": "2025-04-16T05:56:16",
+          "link_docusign": "https://da.br/"
+        },
+        "rodada": {
+          "valor_captado": 1312700,
+          "inicio_liquidacao": "2025-04-26T05:56:16",
+          "fim_liquidacao": "2025-05-26T05:56:16"
+        },
+        "documentos": [
+          {
+            "nome_arquivo": "Relatório de Oferta",
+            "tipo": "Relatórios",
+            "trimestre": "1T",
+            "ano": 2025,
+            "link": "http://www.da.br/"
+          }
+        ],
+        "indicadores": [
+          {
+            "nome": "Receita",
+            "pilar": "Financeiro",
+            "valor": 333727.91,
+            "trimestre": "1T",
+            "ano": 2025
+          }
+        ],
+        "cartas_ceo": [
+          {
+            "trimestre": "1T",
+            "ano": 2025,
+            "texto": "Eos eos aperiam placeat. Recusandae exercitationem sunt mollitia dolorum. Tenetur ea eius laudantium. A laboriosam facere asperiores cupiditate. Consequatur nisi repudiandae nesciunt."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 108358,
+    "nome": "Miguel Cavalcante",
+    "numero_de_rodadas": 3,
+    "valor_total_investido": 110255.28,
+    "iss_geral": 6.33,
+    "empresas_investidas": [
+      {
+        "id": 86232,
+        "nome_empresa": "Moreira",
+        "cnpj": "36.107.492/0001-66",
+        "categoria": "EduTech",
+        "iss": 56,
+        "estagio": "Early-stage",
+        "status_rodada": "Aberta para investir",
+        "linkedin": "http://lopes.com/",
+        "instagram": "https://www.araujo.net/",
+        "site": "http://www.ferreira.br/",
+        "logo": "https://picsum.photos/360/87",
+        "investimento": {
+          "valor": 89388.62,
+          "percentual_rodada": 4.9315,
+          "status_investimento": "Assinado",
+          "status_liquidacao": "Em andamento",
+          "data_emissao": "2025-02-16T02:40:45",
+          "data_assinatura": "2025-02-16T02:45:45",
+          "link_docusign": "https://www.guerra.com/"
+        },
+        "rodada": {
+          "valor_captado": 765882,
+          "inicio_liquidacao": "2025-02-26T02:45:45",
+          "fim_liquidacao": "2025-03-28T02:45:45"
+        },
+        "documentos": [
+          {
+            "nome_arquivo": "Relatório de Oferta",
+            "tipo": "Relatórios",
+            "trimestre": "1T",
+            "ano": 2025,
+            "link": "http://www.borges.com/"
+          }
+        ],
+        "indicadores": [
+          {
+            "nome": "Receita",
+            "pilar": "Financeiro",
+            "valor": 240137.38,
+            "trimestre": "1T",
+            "ano": 2025
+          }
+        ],
+        "cartas_ceo": [
+          {
+            "trimestre": "1T",
+            "ano": 2025,
+            "texto": "Laborum nostrum consequatur ab hic. Laudantium perferendis nostrum perspiciatis. Quo ut consectetur iure. Dolore voluptates iure cumque mollitia totam odit."
+          }
+        ]
+      },
+      {
+        "id": 83662,
+        "nome_empresa": "da Rocha e Filhos",
+        "cnpj": "87.342.196/0001-80",
+        "categoria": "SaaS",
+        "iss": 12,
+        "estagio": "Early-stage",
+        "status_rodada": "Aberta para investir",
+        "linkedin": "http://www.camargo.br/",
+        "instagram": "http://cassiano.com/",
+        "site": "http://pastor.br/",
+        "logo": "https://picsum.photos/825/840",
+        "investimento": {
+          "valor": 112684.79,
+          "percentual_rodada": 1.3606,
+          "status_investimento": "Cancelado",
+          "status_liquidacao": "Em andamento",
+          "data_emissao": "2025-02-12T20:30:13",
+          "data_assinatura": "2025-02-12T20:35:13",
+          "link_docusign": "http://www.mendes.br/"
+        },
+        "rodada": {
+          "valor_captado": 1224817,
+          "inicio_liquidacao": "2025-02-22T20:35:13",
+          "fim_liquidacao": "2025-03-24T20:35:13"
+        },
+        "documentos": [
+          {
+            "nome_arquivo": "Relatório de Oferta",
+            "tipo": "Relatórios",
+            "trimestre": "1T",
+            "ano": 2025,
+            "link": "http://www.da.net/"
+          }
+        ],
+        "indicadores": [
+          {
+            "nome": "Receita",
+            "pilar": "Financeiro",
+            "valor": 551577.37,
+            "trimestre": "1T",
+            "ano": 2025
+          }
+        ],
+        "cartas_ceo": [
+          {
+            "trimestre": "1T",
+            "ano": 2025,
+            "texto": "Molestias mollitia dolor. Doloribus quas nisi amet aliquid consequuntur. Quisquam beatae modi magni voluptas alias iste. Asperiores facilis velit aut temporibus."
+          }
+        ]
+      },
+      {
+        "id": 85198,
+        "nome_empresa": "da Cruz",
+        "cnpj": "09.153.276/0001-84",
+        "categoria": "SaaS",
+        "iss": 78,
+        "estagio": "Early-stage",
+        "status_rodada": "Exit",
+        "linkedin": "https://duarte.br/",
+        "instagram": "http://moreira.net/",
+        "site": "http://www.mendonca.com/",
+        "logo": "https://picsum.photos/931/850",
+        "investimento": {
+          "valor": 105293.79,
+          "percentual_rodada": 2.8165,
+          "status_investimento": "Cancelado",
+          "status_liquidacao": "Pendente",
+          "data_emissao": "2025-03-17T12:32:27",
+          "data_assinatura": "2025-03-17T12:37:27",
+          "link_docusign": "http://montenegro.com/"
+        },
+        "rodada": {
+          "valor_captado": 1762453,
+          "inicio_liquidacao": "2025-03-27T12:37:27",
+          "fim_liquidacao": "2025-04-26T12:37:27"
+        },
+        "documentos": [
+          {
+            "nome_arquivo": "Relatório de Oferta",
+            "tipo": "Relatórios",
+            "trimestre": "1T",
+            "ano": 2025,
+            "link": "https://rocha.com/"
+          }
+        ],
+        "indicadores": [
+          {
+            "nome": "Receita",
+            "pilar": "Financeiro",
+            "valor": 708172.75,
+            "trimestre": "1T",
+            "ano": 2025
+          }
+        ],
+        "cartas_ceo": [
+          {
+            "trimestre": "1T",
+            "ano": 2025,
+            "texto": "Officiis voluptatum necessitatibus est nostrum sed. Libero neque numquam illum adipisci animi consequatur. Magnam quidem a in minima officiis. Facilis nam odio dolore."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 743174,
+    "nome": "Mirella Gomes",
+    "numero_de_rodadas": 1,
+    "valor_total_investido": 100431.16,
+    "iss_geral": 5.42,
+    "empresas_investidas": [
+      {
+        "id": 88418,
+        "nome_empresa": "Nascimento",
+        "cnpj": "46.893.517/0001-58",
+        "categoria": "SaaS",
+        "iss": 86,
+        "estagio": "Ideação",
+        "status_rodada": "Terminada",
+        "linkedin": "http://albuquerque.net/",
+        "instagram": "http://sousa.br/",
+        "site": "http://barros.org/",
+        "logo": "https://dummyimage.com/952x620",
+        "investimento": {
+          "valor": 92933.2,
+          "percentual_rodada": 2.7123,
+          "status_investimento": "Emitido",
+          "status_liquidacao": "Concluída",
+          "data_emissao": "2025-03-08T01:40:22",
+          "data_assinatura": "2025-03-08T01:45:22",
+          "link_docusign": "http://www.araujo.com/"
+        },
+        "rodada": {
+          "valor_captado": 1130772,
+          "inicio_liquidacao": "2025-03-18T01:45:22",
+          "fim_liquidacao": "2025-04-17T01:45:22"
+        },
+        "documentos": [
+          {
+            "nome_arquivo": "Relatório de Oferta",
+            "tipo": "Relatórios",
+            "trimestre": "1T",
+            "ano": 2025,
+            "link": "https://www.carvalho.br/"
+          }
+        ],
+        "indicadores": [
+          {
+            "nome": "Receita",
+            "pilar": "Financeiro",
+            "valor": 954810.75,
+            "trimestre": "1T",
+            "ano": 2025
+          }
+        ],
+        "cartas_ceo": [
+          {
+            "trimestre": "1T",
+            "ano": 2025,
+            "texto": "Facilis maxime occaecati dolorem. Optio similique molestiae tempora cumque quas. Soluta repellat quam eos dicta."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 924962,
+    "nome": "Marcos Vinicius Nogueira",
+    "numero_de_rodadas": 2,
+    "valor_total_investido": 34180.89,
+    "iss_geral": 3.73,
+    "empresas_investidas": [
+      {
+        "id": 86585,
+        "nome_empresa": "Pereira",
+        "cnpj": "78.054.693/0001-92",
+        "categoria": "Agtech",
+        "iss": 14,
+        "estagio": "Early-stage",
+        "status_rodada": "Exit",
+        "linkedin": "http://da.br/",
+        "instagram": "https://rodrigues.com/",
+        "site": "https://cassiano.org/",
+        "logo": "https://picsum.photos/120/409",
+        "investimento": {
+          "valor": 23478.54,
+          "percentual_rodada": 4.2454,
+          "status_investimento": "Cancelado",
+          "status_liquidacao": "Concluída",
+          "data_emissao": "2025-02-16T01:50:05",
+          "data_assinatura": "2025-02-16T01:55:05",
+          "link_docusign": "http://sales.br/"
+        },
+        "rodada": {
+          "valor_captado": 539699,
+          "inicio_liquidacao": "2025-02-26T01:55:05",
+          "fim_liquidacao": "2025-03-28T01:55:05"
+        },
+        "documentos": [
+          {
+            "nome_arquivo": "Relatório de Oferta",
+            "tipo": "Relatórios",
+            "trimestre": "1T",
+            "ano": 2025,
+            "link": "https://brito.org/"
+          }
+        ],
+        "indicadores": [
+          {
+            "nome": "Receita",
+            "pilar": "Financeiro",
+            "valor": 253388.78,
+            "trimestre": "1T",
+            "ano": 2025
+          }
+        ],
+        "cartas_ceo": [
+          {
+            "trimestre": "1T",
+            "ano": 2025,
+            "texto": "Adipisci expedita cum quos maxime reprehenderit corporis. Saepe modi aperiam debitis a. Enim repellendus accusantium perspiciatis numquam illo vel. Dignissimos tenetur magnam doloremque."
+          }
+        ]
+      },
+      {
+        "id": 80143,
+        "nome_empresa": "Cavalcante S/A",
+        "cnpj": "35.849.210/0001-33",
+        "categoria": "Agtech",
+        "iss": 10,
+        "estagio": "Estágio de crescimento",
+        "status_rodada": "Exit",
+        "linkedin": "http://www.rios.net/",
+        "instagram": "http://www.macedo.net/",
+        "site": "http://www.farias.com/",
+        "logo": "https://placekitten.com/606/38",
+        "investimento": {
+          "valor": 70385.83,
+          "percentual_rodada": 4.8773,
+          "status_investimento": "Emitido",
+          "status_liquidacao": "Concluída",
+          "data_emissao": "2025-05-08T09:31:22",
+          "data_assinatura": "2025-05-08T09:36:22",
+          "link_docusign": "http://www.sales.com/"
+        },
+        "rodada": {
+          "valor_captado": 855331,
+          "inicio_liquidacao": "2025-05-18T09:36:22",
+          "fim_liquidacao": "2025-06-17T09:36:22"
+        },
+        "documentos": [
+          {
+            "nome_arquivo": "Relatório de Oferta",
+            "tipo": "Relatórios",
+            "trimestre": "1T",
+            "ano": 2025,
+            "link": "https://sa.br/"
+          }
+        ],
+        "indicadores": [
+          {
+            "nome": "Receita",
+            "pilar": "Financeiro",
+            "valor": 829141.94,
+            "trimestre": "1T",
+            "ano": 2025
+          }
+        ],
+        "cartas_ceo": [
+          {
+            "trimestre": "1T",
+            "ano": 2025,
+            "texto": "Provident quas vitae officia et sapiente inventore. Animi nihil velit. Quos quod voluptas praesentium."
+          }
+        ]
+      }
+    ]
+  }
+]
