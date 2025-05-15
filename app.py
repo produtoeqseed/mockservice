@@ -151,4 +151,3 @@ def buscar_por_id(investidor_id):
 
 if __name__ == '__main__':
     app.run()
-remove debug=True para deploy no Render
