@@ -150,4 +150,5 @@ def buscar_por_id(investidor_id):
         return jsonify({"erro": f"Investidor {investidor_id} não encontrado"}), 404
 
 if __name__ == '__main__':
-    app.run()
+    app.run(host='0.0.0.0', port=10000)
+
