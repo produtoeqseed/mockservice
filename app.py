@@ -37,7 +37,7 @@ def gerar_investidor_completo(qtd_clientes=1):
 
             valor_investido = round(random.uniform(5000, 150000), 2)
             percentual_rodada = round(random.uniform(0.1, 5), 4)
-            status_inv = random.choice(['Emitido', 'Assinado', 'Cancelado'])
+            status_inv = random.choice(['Emitido', 'Assinado', 'Fila de espera','Em liquidação','Cancelado','Concluído'])
             status_liq = random.choice(['Concluída', 'Em andamento', 'Pendente'])
             data_emissao = fake.date_time_this_year()
             data_assinatura = data_emissao + timedelta(minutes=5)
